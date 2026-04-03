@@ -1,5 +1,5 @@
 # 🔐 securing spring boot credentials
-**date:** 2025-04-03
+**date:** 2026-04-03
 **topic:** never push passwords to github
 
 ---
