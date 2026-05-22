@@ -32,7 +32,7 @@ Name: Alice, Age: 34, Salary: 90000.00
 | `%b` | Boolean | true |
 | `%n` | New line | Line break |
 
-## Notes
+## Notes to remember
 * %.2f → .2 means show 2 digits after decimal.
 * %n is preferred over \n for platform-independent new lines.
 * printf() helps create clean and readable console output.
