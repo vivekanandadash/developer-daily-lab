@@ -127,7 +127,7 @@ Stream<Employee>
 
 ---
 
-## Easy Interview Answer
+## How to Answer in Interview 
 
 Why do we write:
 
