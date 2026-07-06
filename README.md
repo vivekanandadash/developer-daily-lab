@@ -1,4 +1,4 @@
-# 🧪 developer-daily-lab
+# 🧪 Developer-daily-lab
 
 This repo is my daily learning journal.
 
